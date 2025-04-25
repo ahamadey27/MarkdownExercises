@@ -68,12 +68,18 @@ List info:
 2. Second Term
 3. Thrid Item
     - Sub Item
+<<<<<<< Updated upstream
     - Sub Item 2
 4. Back to Item 3
+=======
+    - Sub Item 12
+    -
+>>>>>>> Stashed changes
 
 ## Example of an Image
 ![ALT] (images/porfile.jpg)
 
+<<<<<<< Updated upstream
 # Conveying Code
 Here is a for loop `(i = 0; i <= list.Count; i++);` 
 ### Creating Code Blocks
@@ -95,6 +101,11 @@ But a blank line before...
 
 Use [Alex Hamadey](https://alexhamadey.com/ "My Website").
 ### URL or email address into a link
+=======
+
+
+
+>>>>>>> Stashed changes
 
 
 
