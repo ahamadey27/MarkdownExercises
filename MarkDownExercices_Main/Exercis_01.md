@@ -98,9 +98,15 @@ Use [Alex Hamadey](https://alexhamadey.com/ "My Website").
 <https://alexhamadey.com/>
 <hamadey@gmail.com>
 
+# Adding URLs into long long Paragraphs
+Here's some information aout me that you\
+should know and I'm going to add a special\
+URL right here [MY WEBSITE][1].
 
+[1]: <https://alexhamadey.com/> "Name of website when hovered about link"
 
-
+# Adding an Image
+![This text will go italicized and below the image](images/portfolio.jpg "This is the Title of the image")
 
 
 
