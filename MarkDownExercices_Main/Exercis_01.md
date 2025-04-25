@@ -68,13 +68,33 @@ List info:
 2. Second Term
 3. Thrid Item
     - Sub Item
-    - Sub Item 12
-    -
+    - Sub Item 2
+4. Back to Item 3
 
+## Example of an Image
+![ALT] (images/porfile.jpg)
 
+# Conveying Code
+Here is a for loop `(i = 0; i <= list.Count; i++);` 
+### Creating Code Blocks
+Indent at least four spaces
 
+    <html>
+         <head>
+         </head>
+    </html>
 
+# Horizontel Line
+But a blank line before...
 
+---
+
+...And after the - - - or *** or ___ symbols
+
+# Adding URL Links
+
+Use [Alex Hamadey](https://alexhamadey.com/ "My Website").
+### URL or email address into a link
 
 
 
