@@ -106,7 +106,7 @@ URL right here [MY WEBSITE][1].
 [1]: <https://alexhamadey.com/> "Name of website when hovered about link"
 
 # Adding an Image
-![This text will go italicized and below the image](images/portfolio.jpg "This is the Title of the image")
+![This text will go italicized and below the image](images/profile.jpg "This is the Title of the image")
 
 
 
