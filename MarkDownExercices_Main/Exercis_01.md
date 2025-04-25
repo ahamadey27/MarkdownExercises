@@ -106,18 +106,31 @@ URL right here [MY WEBSITE][1].
 [1]: <https://alexhamadey.com/> "Name of website when hovered about link"
 
 # Adding an Image
-![This text will go italicized and below the image](images/profile.jpg "This is the Title of the image")
+![This text will go italicized and below the image](images/porfile.jpg "This is the Title of the image")
+
+
+
+To add whitespace in Markdown, you can use non-breaking spaces (`&nbsp;`) in HTML. Here's how you can achieve your desired formatting:
 
 
 
 
+### Phase 2: Core Functions ✅
+To implement check marks in Markdown, use `- [x]` for completed tasks and `- [ ]` for incomplete tasks. This syntax is supported in many Markdown renderers, such as GitHub. However, not all Markdown viewers support this feature. If it doesn't work in your viewer, you may need to use a Markdown flavor or renderer that supports task lists, such as GitHub-flavored Markdown (GFM).
 
+Here’s the corrected content for `$SELECTION_PLACEHOLDER$`:
 
+- [x] Implement `feed_fish()` method
+- [x] Motor step calculations
+- [x] Test rotation accuracy
+- [x] Calibrate timing
+- [x] Basic error handling
+- [x] Adjust feed amount
+    - [x] Add `FEEDS_PER_DAY` to config
+    - [x] Update `feed_fish()` to handle multiple rotations
+    - [x] Test with actual food amounts
 
-
-
-
-
+If you're using a Markdown viewer that doesn't support task lists, consider switching to a platform like GitHub, Visual Studio Code with Markdown Preview, or another GFM-compatible tool.
 
 
 
