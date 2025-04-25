@@ -15,5 +15,13 @@ Coontents of P1 and don't put tabs in or spaces in Paragraphs
 Paragraph 2
 Contents of Paragraph 2 - Keeps lines left aligned
 
-github testing 
+Line break ends with two or more spaces followed by return.  
+And this is a line break.
+
+**BoldText**
+Middle**Bold**Text
+
+*Italicizied*
+
+***Bold and Italicized*** 
 
