@@ -122,7 +122,7 @@ Here’s the corrected content for `$SELECTION_PLACEHOLDER$`:
 
 - [x] Implement `feed_fish()` method
 - [x] Motor step calculations
-- [x] Test rotation accuracy
+- [d] Test rotation accuracy
 - [x] Calibrate timing
 - [x] Basic error handling
 - [x] Adjust feed amount
